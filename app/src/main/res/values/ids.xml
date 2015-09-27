@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnStart" type="id" />
+    <item name="btnStop" type="id" />
+    <item name="btnBind" type="id" />
+    <item name="btnUnbind" type="id" />
+    <item name="textStatus" type="id" />
+    <item name="textIntValue" type="id" />
+    <item name="textStrValue" type="id" />
+    <item name="btnUpby1" type="id" />
+    <item name="btnUpby10" type="id" />
+</resources>
